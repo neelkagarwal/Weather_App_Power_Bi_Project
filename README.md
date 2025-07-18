@@ -89,4 +89,7 @@ To provide a clean, intuitive dashboard where users can:
 ## 5. Screenshot / Demo  
 ![Dashboard Preview](Weather_App_Screenshot.png)  
 > Full Power BI report with city selection, dynamic visuals, and color-coded risk metrics.
+>
+> [▶️ Watch Demo Video](./Weather_App_Demo-Video.mp4)
+
 
