@@ -71,7 +71,7 @@ To provide a clean, intuitive dashboard where users can:
 
 - 🌫️ **Air Quality Index (Center Bottom)**  
   Circular gauge for PM10 score  
-  Metrics for CO, NO₂, SO₂, O₃, PM2.5 — with color-coded risk indicators  
+  Metrics for CO, NO₂, SO₂, O₃, PM2.5 with color-coded risk indicators  
 
 - 🌧️ **Chance of Rain by Day (Bottom Right)**  
   A stacked bar chart showing rain probabilities throughout the week
