@@ -1,6 +1,6 @@
 # 🌦️ Weather App: Real-Time Weather & Air Quality Dashboard
 
-### A sleek, interactive Power BI dashboard to monitor real-time weather, weekly forecasts, and air quality across major U.S. cities — all in one view.
+### A sleek, interactive Power BI dashboard to monitor real-time weather, weekly forecasts, and air quality across major U.S. cities, all in one view.
 
 ---
 
@@ -34,8 +34,8 @@ Tables are separated for `Current`, `Forecast`, and `Location`, with measures fl
 ## 4. Features / Highlights  
 
 ### • Business Problem  
-Real-time weather and pollution data is often scattered, text-heavy, or inaccessible to the average person.  
-The challenge is making this data easy to interact with, explore, and understand in one glance.
+Real-time weather and pollution data are often scattered, text-heavy, or inaccessible to the average person.  
+The challenge is making this data easy to interact with, explore, and understand in a glance.
 
 Key questions:  
 - What’s the weather today in multiple cities?  
@@ -67,14 +67,14 @@ To provide a clean, intuitive dashboard where users can:
   Cards showing today’s sunrise and sunset times with matching icons  
 
 - 💧 **Current Conditions Cards (Bottom Left)**  
-  Humidity, wind speed, visibility, pressure, UV index, and precipitation — all color-themed  
+  Humidity, wind speed, visibility, pressure, UV index, and precipitation, all color-themed  
 
 - 🌫️ **Air Quality Index (Center Bottom)**  
   Circular gauge for PM10 score  
   Metrics for CO, NO₂, SO₂, O₃, PM2.5 — with color-coded risk indicators  
 
 - 🌧️ **Chance of Rain by Day (Bottom Right)**  
-  Stacked bar chart showing rain probabilities throughout the week
+  A stacked bar chart showing rain probabilities throughout the week
 
 ---
 
